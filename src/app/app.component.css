@@ -1,0 +1,15 @@
+.outer{
+    background: red;
+    text-align: center;
+}
+
+li {
+    display: inline;
+    padding: 10px;
+}
+#deletebtn{
+    background-color: red;
+}
+#enterbtn{
+    background-color: green;
+}
